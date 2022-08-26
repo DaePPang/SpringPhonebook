@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+header{height:200px;width:100%;border:5px dotted black;
+background-color: rgba(60,60,60,0.2)}
+
+main{display:flex;height:600px;width:100%;border:5px dotted black}
+aside{overflow: scroll;height:600px;width:20%;border:5px dotted black;background-color: rgba(205,205,205,0.2)}
+#content{height:600px;width:80%;border:5px dotted black;background-color: rgba(60,60,60,0.2)}
+
+footer{height:100px;width:100%;border:5px dotted black; background-color: rgb(0,0,0)}
